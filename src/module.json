@@ -1,8 +1,8 @@
 {
-	"name": "blood-n-guts",
-	"title": "Blood 'n Guts",
+	"name": "blood-n-guts-Coolmander-edit",
+	"title": "Blood 'n Guts(Coolmander edit)",
 	"description": "Blood 'n Guts creates blood spray and splatter when tokens recieve damage, drawing to the floor and tokens, and drawing trails of blood after tokens who have taken damage. Many options are configurable.",
-	"author": "edzillion",
+	"author": "edzillion,Coolmander",
 	"version": "0.8.7",
 	"minimumCoreVersion": "0.6.0",
 	"compatibleCoreVersion": "0.7.9",
@@ -21,10 +21,10 @@
 			"path": "lang/en.json"
 		}
 	],
-	"url": "https://github.com/edzillion/blood-n-guts",
-	"manifest": "https://raw.githubusercontent.com/edzillion/blood-n-guts/master/src/module.json",
-	"download": "https://github.com/edzillion/blood-n-guts/releases/download/v0.8.7/blood-n-guts-v0.8.7.zip",
-	"changelog": "https://github.com/edzillion/blood-n-guts/blob/v0.8.7/changelog.md",
-	"bugs": "https://github.com/edzillion/blood-n-guts/issues",
+	"url": "https://github.com/Coolmander/blood-n-guts/",
+	"manifest": "https://raw.githubusercontent.com/Coolmander/blood-n-guts/master/src/module.json",
+	"download": "https://github.com/Coolmander/blood-n-guts/releases/download/v0.8.7/blood-n-guts-v0.8.7.zip",
+	"changelog": "https://github.com/Coolmander/blood-n-guts/blob/v0.8.7/changelog.md",
+	"bugs": "https://github.com/Coolmander/blood-n-guts/issues",
 	"allowBugReporter": true
 }
